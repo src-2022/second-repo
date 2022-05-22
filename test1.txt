@@ -1,2 +1,4 @@
 Hello!
 First file for testing
+changing from remote 1st line
+changing from remote 2nd line
