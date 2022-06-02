@@ -1,0 +1,15 @@
+git checkout --<filename>
+git checkout .
+
+git reset --<filename>
+git reset HEAD~1
+git reset --soft/--mixed/--hard
+
+git commit --amend -m "message"
+
+git revert
+
+.gitignore
+
+git checkout -b <branch_name>
+git merge <branch_name>
